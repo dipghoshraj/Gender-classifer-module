@@ -9,7 +9,7 @@ Gender classifier is a python libary written over a classification model which c
 #### Building for source
 First install all requirement file:
 ```sh
->>> pip install glcassifier
+>>> pip install gclassifier
 ```
  
 
@@ -30,6 +30,10 @@ Step 2 :  Decode the message using shiftencoder
 License
 ----
 MIT
+
+PYPI MODULE
+----------------
+https://pypi.org/project/gclassifier/
 
 ### NOTE :
 ```
