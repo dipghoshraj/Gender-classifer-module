@@ -24,7 +24,7 @@ Step 2 :  Decode the message using shiftencoder
 ```
 >>> img = cv2.imread('7.jpg')
 >>> a = image_classifier(frame=img)
-['women']
+['woman']
 ```
 
 License
