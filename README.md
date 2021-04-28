@@ -7,7 +7,7 @@ Gender classifier is a python libary written over a classification model which c
 
 
 #### Building for source
-First install all requirement file:
+First install gclassifier from pip:
 ```sh
 >>> pip install gclassifier
 ```
@@ -15,12 +15,12 @@ First install all requirement file:
 
 ### Run the drawing code:
 
-Step 1 :  Encode a message with shiftencoder
+Step 1 :  Import module for classifier
 ```
 >>> from gclassifier import image_classifier
 >>> import cv2
 ```
-Step 2 :  Decode the message using shiftencoder
+Step 2 :  Runn the classifier
 ```
 >>> img = cv2.imread('7.jpg')
 >>> a = image_classifier(frame=img)
