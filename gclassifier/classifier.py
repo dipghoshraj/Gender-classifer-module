@@ -7,7 +7,7 @@ import cvlib as cv
 import requests
 
 dirname = os.path.dirname(__file__)
-filename = os.path.join(dirname, 'gender_detection.model')
+filename = os.path.join(dirname, 'algo_model.model')
 model = load_model(filename)
 classes = ['man','woman']
 
