@@ -3,7 +3,7 @@
 
 Gender classifier is a python libary written over a classification model which can classify gender of the human inside the image
   - Classify gender from a image
-  - Model train on tensoreflor (CNN)
+  - Model train on tensorflow (CNN)
 
 
 #### Building for source
