@@ -35,6 +35,8 @@ PYPI MODULE
 ----------------
 https://pypi.org/project/gclassifier/
 
+UPDATES AND PULL REQUESTS ARE ALWAYS WELCOME
+
 ### NOTE :
 ```
 This modlue have been inspired from - https://www.youtube.com/watch?v=WOuAI5DhHyU
