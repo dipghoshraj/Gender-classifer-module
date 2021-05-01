@@ -35,7 +35,10 @@ PYPI MODULE
 ----------------
 https://pypi.org/project/gclassifier/
 
-UPDATES AND PULL REQUESTS ARE ALWAYS WELCOME
+CONTRIBUTIONS
+----------------
+Bug reports and pull requests are always welcome on GitHub at https://github.com/dipghoshraj/Gender-classifer-module. This project is intended to help developers and no restriction to use, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
+
 
 ### NOTE :
 ```
@@ -47,4 +50,4 @@ IOT and robotics developer with a handson experience in Software development and
 ```
 
 
-<!-- **Free Software, Yeah it's fucking truth!** -->
+<!-- **Free Software, Yeah it's true!** -->
